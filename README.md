@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabmh
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Vue.js and Typescript
+- 🌱 I’m currently coding in kotlin
 - 📫 How to reach me : mahegabriel@gmail.com
 
 <!---
